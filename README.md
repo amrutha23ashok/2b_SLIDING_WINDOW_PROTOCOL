@@ -10,7 +10,6 @@
 ## PROGRAM
 Developed by : DARIO G
 
-Reg no : 212222230027
 
 
 Client.py
